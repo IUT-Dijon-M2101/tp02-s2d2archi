@@ -64,3 +64,4 @@ while(1)
 	}
 	}
 }
+/** Autre méthode possible ( car pb quand + et - sont égales a 1)
